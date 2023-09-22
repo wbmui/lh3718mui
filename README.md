@@ -5,12 +5,10 @@
 
 2. 从 https://files.jrsoftware.org/is/5/innosetup-5.6.1-unicode.exe 下载 Inno Setup 5.6.1 Unicode 安装包，并安装它。记得勾选安装 Inno Setup Preprocessor！
 
-3. 编译 InstallerScript.iss 文件，编译完成的文件在源代码根目录下的 Compiler_Output 文件夹。
+3. 编译 Installer.iss 文件，编译完成的文件在源代码根目录下的 Compiler_Output 文件夹。
 
 #### 反馈
 粉丝群: http://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
-
-爱发电: http://afdian.net/u/c32a5d5a261711eea60e52540025c377
 
 邮箱: markta111@outlook.com
 
