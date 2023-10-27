@@ -1,5 +1,5 @@
-# Windows Longhorn build 4074 Multilingual User Interface Pack
-### 为您的 Windws Longhorn 4074 添加简体中文、繁体中文及更多语言！
+# Windows Longhorn build 3718 Multilingual User Interface Pack
+### 为您的 Windws Longhorn 3718 添加简体中文、繁体中文及更多语言（目前仅支持简体中文）！
 由于 GitHub 不支持放置太多文件，而文件较多，因此源码使用压缩包格式上传。
 
 编译方法：
