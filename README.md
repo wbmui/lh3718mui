@@ -1,6 +1,6 @@
 # Windows Longhorn build 3718 Multilingual User Interface Pack
-### 为您的 Windws Longhorn build 3718 添加简体中文、繁体中文及更多语言（目前仅支持简体中文）！
-由于 GitHub 不支持放置太多文件，而文件较多，因此源码使用压缩包格式上传。
+### 为您的 Windws Longhorn build 3718 添加中文（简体）！
+由于 Git 不支持在 Code 部分放置太多文件，而文件较多，因此源码使用压缩包格式上传到 Release 处。
 
 编译方法：
 1. 从 https://winbetauser.github.io/files/lh-3718-mui.zip （仅正式版）或 Release 处下载源代码（不建议下载测试版，因为它可能不稳定）。  
